@@ -27,7 +27,6 @@ function App() {
   return (
     <div className="App">
       <h1>Consumindo API com Axios</h1>
-      <h3>Aluno: Vitor de Andrade Marino - RA:2100010</h3>
       <table width="467" border="1px" align='center'>
         <tr>
           <th width="101" height="40">ID</th>
